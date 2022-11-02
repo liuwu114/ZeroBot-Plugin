@@ -89,7 +89,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"           // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"        // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"    // 猜歌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/heisi"         
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/heisi"         //
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"            // 炉石
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"         // 百人一首
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder"  // 关键字搜图
@@ -101,7 +101,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/lolicon"       // lolicon 随机图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/midicreate"    // 简易midi音乐制作
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moegoe"        // 日韩 VITS 模型拟声
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"          // 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar" // 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         // 点歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"    // 
