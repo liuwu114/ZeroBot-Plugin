@@ -28,7 +28,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/antiabuse" // 违禁词
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" 
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage" // 统计睡眠时间
 
@@ -36,7 +36,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" 
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
@@ -83,7 +83,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"       
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/event"         // 好友申请群聊邀请事件处理
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/font"          // 渲染任意文字到图片
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"       // 运势
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"       
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"         // 笑话
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"       // 原神抽卡
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"           // 制图
@@ -117,7 +117,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"         // 叔叔的AI二次元图片放大
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"         // 分数
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"      // 来份涩图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"      
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"       // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"       // 测定
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tarot"          
@@ -151,11 +151,11 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" 
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/breakrepeat" // 打断复读
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/breakrepeat" 
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
