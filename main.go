@@ -38,7 +38,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" 
 
-	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
+	_ "github.com/FloatTech/zbputils/job" 
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
